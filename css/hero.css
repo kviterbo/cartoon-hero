@@ -1,3 +1,16 @@
 body{
-	background-color: red;
+	margin: 0;
+}
+
+header{
+	background-color: #228B22;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
 }
